@@ -21,7 +21,7 @@
 
     <script>
         // Fetching the posts list from posts.json
-        fetch('.posts/posts.json')
+        fetch('_posts/posts.json')
           .then(response => response.json())
           .then(posts => {
               const postList = document.getElementById('post-list');
