@@ -1,12 +1,12 @@
 [
   {
     "title": "My First Blog Post",
-    "url": "/2024/09/24/first-post/",
+    "url": "./assets/2024-09-24-first-post",
     "date": "2024-09-24"
   },
   {
     "title": "Another Great Post",
-    "url": "/2024/09/25/first-post/",
+    "url": "./assets/2024-09-25-first-post",
     "date": "2024-09-25"
   }
 ]
