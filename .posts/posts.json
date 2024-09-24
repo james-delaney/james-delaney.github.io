@@ -8,6 +8,11 @@
     "title": "Another Great Post",
     "url": ".posts/2024-09-25-second-post.html",
     "date": "2024-09-25"
+  },
+  {
+    "title": "Last Great Post",
+    "url": "2024-09-25-second-post.html",
+    "date": "2024-09-25"
   }
 ]
 
