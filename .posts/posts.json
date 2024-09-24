@@ -1,0 +1,13 @@
+[
+  {
+    "title": "My First Blog Post",
+    "url": ".posts/2024-09-24-first-post.html",
+    "date": "2024-09-24"
+  },
+  {
+    "title": "Another Great Post",
+    "url": ".posts/2024-09-25-second-post.html",
+    "date": "2024-09-25"
+  }
+]
+
